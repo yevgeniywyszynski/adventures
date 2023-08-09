@@ -3,5 +3,5 @@
 <p>5. npm run start</p>
 
 <div>
-    <img src="client/public/img/home.png"/>
+    <img src="public/img/home.png"/>
 </div>
